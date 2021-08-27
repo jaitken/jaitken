@@ -3239,3 +3239,12 @@ input, select, textarea {
 	float: right;
 
 }
+
+.certIcon{
+	margin-right: 10px;
+}
+
+.languageIcons{
+	margin-right: 20px;
+	margin-bottom: 30px;
+}
